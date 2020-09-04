@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.js';
 
 function Home() {
 
